@@ -1,10 +1,8 @@
 def hello
-  puts "Hello!"
+  "Hello!"
 end
-
-hello
 
 
 def greet(name)
-  puts "Hello, #{name}!"
+  "Hello, #{name}!"
 end
